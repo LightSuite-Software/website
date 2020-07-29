@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://lightsuite.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://lightsuite.io/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>http://lightsuite.io/</loc>
+  </url>
+  
+  <url>
+    <loc>http://lightsuite.io/blog/</loc>
+  </url>
+  
+  <url>
+    <loc>http://lightsuite.io/products/</loc>
+  </url>
+  
+  <url>
+    <loc>http://lightsuite.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>http://lightsuite.io/privacy-policy/</loc>
+  </url>
+  
+  <url>
+    <loc>http://lightsuite.io/terms-conditions/</loc>
+  </url>
+  
+</urlset>
