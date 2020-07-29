@@ -1,0 +1,6 @@
+[submodule "lightsuite/themes/hugo-refresh"]
+	path = lightsuite/themes/hugo-refresh
+	url = https://github.com/PippoRJ/hugo-refresh.git
+[submodule "lightsuite/themes/vex-hugo"]
+	path = lightsuite/themes/vex-hugo
+	url = https://github.com/themefisher/vex-hugo.git
