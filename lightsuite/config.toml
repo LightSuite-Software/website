@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = "http://lightsuite.io"
+baseurl = "https://lightsuite.io"
 title = "LightSuite Software"
 theme = "lightsuite"
 publishDir = "../docs"
